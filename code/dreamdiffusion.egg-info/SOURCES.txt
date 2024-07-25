@@ -1,0 +1,6 @@
+setup.py
+dreamdiffusion.egg-info/PKG-INFO
+dreamdiffusion.egg-info/SOURCES.txt
+dreamdiffusion.egg-info/dependency_links.txt
+dreamdiffusion.egg-info/requires.txt
+dreamdiffusion.egg-info/top_level.txt
